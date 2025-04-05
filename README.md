@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YorgunOgrenci
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning C#, HTML
 - 📫 You can reach me from drkyamac@gmail.com
 
 <!---
